@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdelrahman-ayman-978394221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharwat-samy-363aa7177/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/boo.dy.58367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharwat samy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/LightAcademy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="LightAcademy1" height="30" width="40" /></a>
 
 
 
