@@ -13,7 +13,7 @@
 ### ⚡ About Me
 I am a **Software Engineer** specializing in **Cross-Platform Mobile Development**. My core focus is building high-performance, scalable applications using **Flutter & Dart**. I am passionate about **Clean Code**, **Design Patterns**, and delivering seamless user experiences.
 
-- 🎓 Studying **Computer Science**.
+- 🎓 Studying **Computer And Management Information Systems**.
 - 🏗️ Expert in **Clean Architecture** & **Domain-Driven Design (DDD)**.
 - 📱 Dedicated to creating fluid UI/UX with complex animations.
 - 🔭 Check out my latest work below.
