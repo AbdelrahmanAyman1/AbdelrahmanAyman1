@@ -63,7 +63,7 @@ I am a **Software Engineer** dedicated to crafting high-performance mobile exper
       <a href="https://github.com/OmarWheed/Flower-app">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarWheed&repo=Flower-app&theme=neon&hide_border=true" alt="Flower App" />
       </a>
-      <br /><i>E-commerce Flower Shop with Clean Architecture</i>
+      <br /><i>E-commerce Flower Shop - UI/UX Focus</i>
     </td>
   </tr>
 </table>
@@ -78,13 +78,6 @@ I am a **Software Engineer** dedicated to crafting high-performance mobile exper
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAyman1&layout=compact&theme=neon&hide_border=true" alt="top-langs" height="180" />
-</p>
-
----
-
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanAyman1&theme=neon&no-bg=true&no-frame=true" alt="AbdelrahmanAyman1 Trophies" />
 </p>
 
 ---
