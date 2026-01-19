@@ -11,11 +11,11 @@
 ---
 
 ### ⚡ About Me
-I am a **Software Engineer** dedicated to crafting high-performance mobile experiences. My philosophy is simple: **Code is for humans to read, and machines to execute.** I specialize in transforming complex business requirements into scalable, maintainable Flutter applications.
+I am a **Software Engineer** dedicated to crafting high-performance mobile experiences. My philosophy is simple: **Code is for humans to read, and machines to execute.** I specialize in transforming complex business requirements into scalable, maintainable Flutter applications using Clean Architecture.
 
-- 🛠️ Currently mastering **Advanced DevOps for Mobile**.
-- 🏗️ Heavy advocate for **Clean Architecture** & **TDD**.
-- 🔭 Check out my latest project: [Online Exam System](https://github.com/AbdelrahmanAyman1/online_exam).
+- 🏗️ Heavy advocate for **Clean Architecture** & **Scalable Systems**.
+- 📱 Focus on **Smooth UI/UX** and **Optimized Performance**.
+- 🔭 Check out my latest work below.
 
 ---
 
@@ -31,11 +31,11 @@ I am a **Software Engineer** dedicated to crafting high-performance mobile exper
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Tools & DevOps</h4>
+      <h4>🛠️ Tools & Backend</h4>
       <ul>
-        <li><b>CI/CD:</b> GitHub Actions, Codemagic</li>
-        <li><b>Testing:</b> Unit, Widget, Integration Testing</li>
-        <li><b>Backend:</b> Firebase, Supabase, Node.js</li>
+        <li><b>Version Control:</b> Git & GitHub</li>
+        <li><b>Testing:</b> Unit & Widget Testing</li>
+        <li><b>Backend:</b> Firebase, Supabase, REST APIs</li>
       </ul>
     </td>
   </tr>
@@ -50,28 +50,48 @@ I am a **Software Engineer** dedicated to crafting high-performance mobile exper
 
 ---
 
+### 🌟 Featured Projects
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AbdelrahmanAyman1/online_exam">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman1&repo=online_exam&theme=neon&hide_border=true" alt="Online Exam" />
+      </a>
+      <br /><i>Dynamic Exam System with Clean Architecture</i>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/OmarWheed/Flower-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarWheed&repo=Flower-app&theme=neon&hide_border=true" alt="Flower App" />
+      </a>
+      <br /><i>E-commerce Flower Shop - UI/UX Focus</i>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 Git Insight & Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman1&show_icons=true&theme=neon&hide_border=true&rank_icon=github" alt="stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAyman1&layout=compact&theme=neon&hide_border=true" alt="top-langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman1&show_icons=true&theme=neon&hide_border=true" alt="stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman1&theme=neon&hide_border=true" alt="streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman1&theme=neon&hide_border=true" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAyman1&layout=compact&theme=neon&hide_border=true" alt="top-langs" height="180" />
 </p>
 
 ---
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanAyman1&theme=dracula&no-frame=true&column=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanAyman1&theme=neon&no-frame=true&margin-w=15" alt="trophies" />
 </p>
 
 ---
 
 ### 🎬 Animated Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbdelrahmanAyman1/AbdelrahmanAyman1/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/AbdelrahmanAyman1/AbdelrahmanAyman1/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
