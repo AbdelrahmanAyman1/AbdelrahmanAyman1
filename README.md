@@ -11,12 +11,12 @@
 ---
 
 ### ⚡ About Me
-I am a **Software Engineer** specializing in **Cross-Platform Mobile Development**. My core focus is building high-performance, scalable applications using **Flutter & Dart**.
+I am a **Software Engineer** specializing in **Cross-Platform Mobile Development**. My core focus is building high-performance, scalable applications using **Flutter & Dart**. I am passionate about **Clean Code**, **Design Patterns**, and delivering seamless user experiences.
 
-- 🎓 **Bachelor's degree** in CS/IT from **HICMIS** (2017 - 2021).
-- 🏗️ Expert in **Clean Architecture**, **MVI**, and **DDD**.
+- 🎓 **Bachelor's degree** in Computer/Information Technology Administration and Management from **HICMIS** (2017 - 2021).
+- 🏗️ Expert in **Clean Architecture**, **MVI**, and **Domain-Driven Design (DDD)**.
 - ⚙️ Skilled in **CI/CD** with **GitHub Actions** and **GitFlow**.
-- 📱 Specialized in **Server-driven UI** and **GPS Tracking**.
+- 📱 Specialized in **Server-driven UI** and **Real-time GPS Tracking**.
 
 ---
 
@@ -24,20 +24,22 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 
 **Flutter Developer Intern** | [Elevate Tech](https://www.linkedin.com/company/elevatecheg/)
 *Oct 2025 – Present*
-- 🚀 Implementing **Server-driven design** and **Bloc/Cubit**.
-- 🏗️ Enforcing **Clean Architecture** and **SOLID Principles**.
-- 🔄 Automating workflows with **GitHub Actions** and **Agile (Scrum)**.
+- 🚀 Implementing **Server-driven design** and state management using **Bloc, Cubit, and Provider**.
+- 🏗️ Enforcing **Clean Architecture** and **SOLID Principles** for maintainable solutions.
+- 🔄 Automating workflows with **GitHub Actions (CI/CD)** and following **Agile (Scrum)** via **Jira**.
+- 🧪 Integrating **REST APIs** with **Retrofit** and handling **GPS Tracking** features.
 
-**Freelance Flutter Developer**
+**Freelance Flutter Developer** | [Remote / Project-Based]
 *Sep 2025*
-- 📍 **[Hero Location](https://github.com/heroOne2025/hero_location)**: Developed a real-time tracking application with Google Maps.
+- 📍 **[Hero Location](https://github.com/heroOne2025/hero_location)**: Developed a specialized location-based application focusing on real-time tracking and Google Maps integration.
+- 🛠️ Optimized background location services and delivered a production-ready UI/UX.
 
 ---
 
 ### 🎓 Licenses & Certifications
-- 🏆 **Cross platform using Flutter** - Udemy (2023).
-- 📜 **Android Development Diploma** - Route (2022).
-- 🎓 **IT Masters Diploma** - Route (2021).
+- 🏆 **Cross platform using Flutter** - Udemy (Issued Sep 2023).
+- 📜 **Android Development Diploma** - Route (Issued Feb 2022).
+- 🎓 **IT Masters Diploma** - Route (Issued Apr 2021).
 
 ---
 
@@ -46,18 +48,45 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/AbdelrahmanAyman1/online_exam">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman1&repo=online_exam&theme=neon&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman1&repo=online_exam&theme=neon&hide_border=true" alt="Online Exam" />
       </a>
+      <br /><i>Online Exam System</i>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/heroOne2025/hero_location">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=heroOne2025&repo=hero_location&theme=neon&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=heroOne2025&repo=hero_location&theme=neon&hide_border=true" alt="Hero Location" />
       </a>
+      <br /><i>Freelance: GPS Tracker</i>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/OmarWheed/Flower-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarWheed&repo=Flower-app&theme=neon&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarWheed&repo=Flower-app&theme=neon&hide_border=true" alt="Flower App" />
       </a>
+      <br /><i>E-commerce Solution</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Technical Expertise
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Mobile Development</h4>
+      <ul>
+        <li><b>State Management:</b> Bloc, Cubit, Provider</li>
+        <li><b>Network:</b> Retrofit, Dio, REST APIs</li>
+        <li><b>Storage:</b> Hive, SQLite, Room</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ Tools & Methodology</h4>
+      <ul>
+        <li><b>DevOps:</b> CI/CD (GitHub Actions), GitFlow</li>
+        <li><b>Management:</b> Jira, Slack, Agile (Scrum)</li>
+        <li><b>Architecture:</b> MVI, MVVM, Clean Architecture</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -66,33 +95,36 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 
 ### 🛠 Tech Stack & Ecosystem
 <p align="center">
-  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" /></a>
-  <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" /></a>
-  <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" /></a>
-  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" /></a>
-  <a href="https://pub.dev/packages/hive"><img src="https://skillicons.dev/icons?i=sqlite" title="Hive/Local DB" /></a>
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
-  <a href="https://www.atlassian.com/software/jira"><img src="https://skillicons.dev/icons?i=jira" /></a>
-  <a href="https://slack.com"><img src="https://skillicons.dev/icons?i=slack" /></a>
-  <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" /></a>
-  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
+  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+  <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
+  <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+  <a href="https://pub.dev/packages/hive"><img src="https://skillicons.dev/icons?i=sqlite" alt="Hive/SQLite" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://skillicons.dev/icons?i=jira" alt="Jira" /></a>
+  <a href="https://slack.com"><img src="https://skillicons.dev/icons?i=slack" alt="Slack" /></a>
+  <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /></a>
+  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
 </p>
 
 ---
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman1&show_icons=true&theme=neon&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman1&theme=neon&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman1&show_icons=true&theme=neon&hide_border=true" alt="stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman1&theme=neon&hide_border=true" alt="streak" height="180" />
 </p>
 
 ---
 
 ### 🎬 My Coding Journey (Snake)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbdelrahmanAyman1/AbdelrahmanAyman1/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AbdelrahmanAyman1/AbdelrahmanAyman1/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -102,3 +134,7 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
   <a href="mailto:abdelrahmanayman559@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abdelrahman-ayman-978394221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=neon" alt="quote" />
+</div>
