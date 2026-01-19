@@ -1,44 +1,39 @@
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-    Hi, I'm Abdelrahman Ayman
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-  </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Abdelrahman;Mobile+App+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAyman1&label=Profile+Views&color=00FF9D&style=for-the-badge" alt="views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AbdelrahmanAyman1&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" alt="coding"/>
+  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAyman1&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ### About Me
-- 🌱 Deep diving into **Flutter** with Clean Architecture, Bloc, Injectable, Retrofit
-- 🔭 Building real apps: online exams, flower/e-commerce style, and more
-- 💬 Ask me anything about **Flutter • Dart • Bloc • Clean Code • Mobile Dev**
-- 📫 Reach me → **abdelrahmanayman559@gmail.com**
-- ⚡ Fun fact → **Always learning – never stop!** 🔥
+- 🌱 I’m currently learning **FLUTTER Development**
+- 💬 Ask me about **anything**
+- 📫 How to reach me **abdelrahmanayman559@gmail.com**
+- ⚡ Fun fact **always learning**
 
-### Connect with me
+### Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelrahman-ayman-978394221/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/abdelrahman-ayman-978394221/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <span>   </span>
-  <a href="https://www.facebook.com/boo.dy.58367">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://www.facebook.com/boo.dy.58367" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
 ### My Stats & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman1&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman1&show_icons=true&theme=dracula&hide_border=true&hide=contribs,prs,issues" alt="stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman1&theme=dracula&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman1&theme=dracula&hide_border=true&border_radius=10" alt="streak"/>
 </p>
 
 <p align="center">
