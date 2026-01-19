@@ -13,7 +13,7 @@
 ### ⚡ About Me
 I am a **Software Engineer** specializing in **Cross-Platform Mobile Development**. My core focus is building high-performance, scalable applications using **Flutter & Dart**. I am passionate about **Clean Code**, **Design Patterns**, and delivering seamless user experiences.
 
-- 🎓 **Bachelor's degree** in Computer/Information Technology from **HICMIS** (2017 - 2021).
+- 🎓 **Bachelor's degree** in Computer/Information Technology Administration and Management from **HICMIS** (2017 - 2021).
 - 🏗️ Expert in **Clean Architecture**, **MVI**, and **Domain-Driven Design (DDD)**.
 - ⚙️ Skilled in **CI/CD** with **GitHub Actions** and **GitFlow**.
 - 📱 Specialized in **Server-driven UI** and **Real-time GPS Tracking**.
@@ -37,9 +37,9 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 ---
 
 ### 🎓 Licenses & Certifications
-- 🏆 **Cross platform using Flutter** - Udemy (Issued Sep 2023)
-- 📜 **Android Development Diploma** - Route (Issued Feb 2022)
-- 🎓 **IT Masters Diploma** - Route (Issued Apr 2021)
+- 🏆 **Cross platform using Flutter** - Udemy (Issued Sep 2023).
+- 📜 **Android Development Diploma** - Route (Issued Feb 2022).
+- 🎓 **IT Masters Diploma** - Route (Issued Apr 2021).
 
 ---
 
