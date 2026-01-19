@@ -13,9 +13,16 @@
 ### ⚡ About Me
 I am a **Software Engineer** dedicated to crafting high-performance mobile experiences. My philosophy is simple: **Code is for humans to read, and machines to execute.** I specialize in transforming complex business requirements into scalable, maintainable Flutter applications using Clean Architecture.
 
-- 🏗️ Heavy advocate for **Clean Architecture** & **Scalable Systems**.
-- 📱 Focus on **Smooth UI/UX** and **Optimized Performance**.
-- 🔭 Check out my latest work below.
+---
+
+### 💼 Experience
+**Flutter Developer Intern** | [Elevate Tech](https://www.linkedin.com/company/elevate-it-tech/)
+*Oct 2025 – Present*
+
+- 🚀 Collaborating with the mobile team to build scalable and high-performance Flutter applications.
+- 🏗️ Implementing **Clean Architecture** and robust state management using **BLoC**.
+- 🛠️ Writing clean, maintainable code and participating in code reviews to ensure industry standards.
+- 🧪 Integrating RESTful APIs and ensuring seamless UI/UX across different devices.
 
 ---
 
