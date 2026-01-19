@@ -13,22 +13,26 @@
 ### ⚡ About Me
 I am a **Software Engineer** specializing in **Cross-Platform Mobile Development**. My core focus is building high-performance, scalable applications using **Flutter & Dart**. I am passionate about **Clean Code**, **Design Patterns**, and delivering seamless user experiences.
 
-- 🎓 **Bachelor's degree** in Computer/Information Technology Administration and Management from **HICMIS** (2017 - 2021).
+- 🎓 **Bachelor's degree** in Computer/Information Technology from **HICMIS**.
 - 🏗️ Expert in **Clean Architecture**, **MVI**, and **Domain-Driven Design (DDD)**.
 - ⚙️ Skilled in **CI/CD** with **GitHub Actions** and **GitFlow**.
-- 📱 Specialized in **Server-driven UI/Design** and **GPS Tracking** integration.
+- 📱 Specialized in **Server-driven UI** and **Real-time GPS Tracking**.
 
 ---
 
 ### 💼 Experience
+
 **Flutter Developer Intern** | [Elevate Tech](https://www.linkedin.com/company/elevatecheg/)
 *Oct 2025 – Present*
-
 - 🚀 Implementing **Server-driven design** and robust state management using **Bloc, Cubit, and Provider**.
 - 🏗️ Enforcing **Clean Architecture** and **SOLID Principles** for maintainable mobile solutions.
-- 🔄 Automating workflows with **GitHub Actions** and following **Agile (Scrum)** methodologies using **Jira**.
-- 🧪 Integrating **REST APIs** with **Retrofit/Dio** and managing local data with **Hive/Room**.
-- 🛠️ Handling complex features like **Push Notifications**, **Google Maps**, and **Unit/UI Testing**.
+- 🔄 Automating workflows with **GitHub Actions (CI/CD)** and following **Agile (Scrum)**.
+
+**Freelance Flutter Developer** | [Remote / Project-Based]
+*Sep 2025*
+- 📍 **[Hero Location](https://github.com/heroOne2025/hero_location)**: Developed a specialized location-based application focusing on real-time tracking and geospatial data.
+- 🛠️ Integrated advanced **Google Maps API** features and optimized background location services.
+- 📱 Delivered a production-ready UI/UX tailored to client requirements.
 
 ---
 
@@ -53,7 +57,7 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
     <td width="50%" valign="top">
       <h4>🛠️ Tools & Methodology</h4>
       <ul>
-        <li><b>DevOps:</b> GitHub Actions (CI/CD), GitFlow</li>
+        <li><b>DevOps:</b> CI/CD (GitHub Actions), GitFlow</li>
         <li><b>Management:</b> Jira, Agile, Scrum, Kanban</li>
         <li><b>Architecture:</b> MVI, MVVM, Clean Architecture</li>
       </ul>
@@ -67,6 +71,24 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,sqlite,git,github,githubactions,figma,postman,vscode,linux&perline=6" />
 </p>
+
+---
+
+### 🌟 Featured Projects
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AbdelrahmanAyman1/online_exam">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman1&repo=online_exam&theme=neon&hide_border=true" alt="Online Exam" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/heroOne2025/hero_location">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=heroOne2025&repo=hero_location&theme=neon&hide_border=true" alt="Hero Location" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
