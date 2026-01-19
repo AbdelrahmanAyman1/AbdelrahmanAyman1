@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00FF9D&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Abdel+Rahman+Ayman;Flutter+Developer+🚀;Clean+Architecture+%26+Bloc" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Abdel+Rahman+Ayman;Flutter+Developer+🚀;Clean+Architecture+%26+Bloc" alt="Typing Animation"/>
 </div>
 
 <p align="center">
@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAyman1&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAyman1&label=Profile+Views&color=00FF9D&style=for-the-badge" alt="profile-views"/>
 </p>
 
 ### About Me
-- 🌱 Currently deep diving into **Flutter** with Clean Architecture, Bloc, Injectable, Retrofit
-- 🔭 Building real apps: online exams, flower/e-commerce style, and more
-- 💬 Ask me anything about **Flutter • Dart • Bloc • Clean Code • Mobile Dev**
-- 📫 Reach me → **abdelrahmanayman559@gmail.com**
-- ⚡ Fun fact → **Always learning – never stop!** 🔥
+- Deep diving into **Flutter** with Clean Architecture, Bloc, Injectable, Retrofit
+- Building real-world apps: online exams, e-commerce/flower-style projects, and more
+- Ask me anything about Flutter • Dart • Bloc • Clean Code • Mobile Development
+- Reach me → abdelrahmanayman559@gmail.com
+- Fun fact → Always learning – never stop! 🔥
 
 ### Connect with me
 <p align="center">
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-### Languages & Tools (ثابت)
+### Languages & Tools
 <p align="center">
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/></a>
   <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/></a>
