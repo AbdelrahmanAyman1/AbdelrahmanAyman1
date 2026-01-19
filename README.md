@@ -13,8 +13,9 @@
 ### ⚡ About Me
 I am a **Software Engineer** specializing in **Cross-Platform Mobile Development**. My core focus is building high-performance, scalable applications using **Flutter & Dart**. I am passionate about **Clean Code**, **Design Patterns**, and delivering seamless user experiences.
 
-- 🎓 Studying **Computer And Management Information Systems**.
-- 🏗️ Expert in **Clean Architecture** & **Domain-Driven Design (DDD)**.
+- 🎓 Studying **Computer Science**.
+- 🏗️ Expert in **Clean Architecture**, **MVI**, and **Domain-Driven Design (DDD)**.
+- ⚙️ Skilled in **CI/CD** pipelines for mobile automation.
 - 📱 Dedicated to creating fluid UI/UX with complex animations.
 - 🔭 Check out my latest work below.
 
@@ -24,8 +25,9 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 **Flutter Developer Intern** | [Elevate Tech](https://www.linkedin.com/company/elevatecheg/)
 *Oct 2025 – Present*
 
-- 🚀 Developing high-quality mobile features within a fast-paced agile environment.
-- 🏗️ Enforcing **Clean Architecture** and **BLoC** for state management to ensure long-term maintainability.
+- 🚀 Developing high-quality mobile features within an **Agile (Scrum)** environment.
+- 🏗️ Enforcing **Clean Architecture** and **MVI / BLoC** for state management to ensure long-term maintainability.
+- 🔄 Implementing and maintaining **CI/CD** workflows to automate testing and deployment processes.
 - 🛠️ Mastering modular code structure and advanced Git workflows for team collaboration.
 - 🧪 Integrating third-party APIs and optimizing app performance for low-end devices.
 
@@ -38,18 +40,18 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
       <h4>💻 Mobile Development</h4>
       <ul>
         <li><b>Framework:</b> Flutter (Dart)</li>
-        <li><b>State Management:</b> BLoC, Cubit, Provider</li>
+        <li><b>State Management:</b> BLoC, MVI, Provider</li>
         <li><b>Architecture:</b> Clean Architecture, MVVM</li>
         <li><b>Local DB:</b> Hive, Sqflite, Shared Preferences</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Tools & Backend</h4>
+      <h4>🛠️ Tools & Methodology</h4>
       <ul>
+        <li><b>DevOps:</b> CI/CD (GitHub Actions), Automation</li>
+        <li><b>Methodologies:</b> Agile, Scrum, Kanban</li>
         <li><b>Version Control:</b> Git, GitHub, GitFlow</li>
         <li><b>Testing:</b> Unit Testing, Widget Testing</li>
-        <li><b>Backend:</b> Firebase, RESTful APIs (Dio/Http)</li>
-        <li><b>Design Tools:</b> Figma, Adobe XD (UI implementation)</li>
       </ul>
     </td>
   </tr>
