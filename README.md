@@ -16,7 +16,7 @@ I am a **Software Engineer** dedicated to crafting high-performance mobile exper
 ---
 
 ### 💼 Experience
-**Flutter Developer Intern** | [Elevate Tech](https://www.linkedin.com/company/elevate-it-tech/)
+**Flutter Developer Intern** | [Elevate Tech]([https://www.linkedin.com/company/elevate-it-tech/](https://www.linkedin.com/company/elevatecheg/posts/?feedView=all))
 *Oct 2025 – Present*
 
 - 🚀 Collaborating with the mobile team to build scalable and high-performance Flutter applications.
