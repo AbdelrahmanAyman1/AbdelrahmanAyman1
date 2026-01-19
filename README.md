@@ -1,79 +1,49 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Abdelrahman+Ayman;Flutter+Developer+—+Crafting+beautiful+and+performant+apps" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Abdel+Rahman+Ayman;Flutter+Developer+🚀;Clean+Architecture+%26+Bloc" alt="Typing Animation"/>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Abdelrahman+Ayman&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abdelrahman+Ayman&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAyman1&label=Profile+Views&color=00FF9D&style=for-the-badge" alt="profile-views"/>
 </p>
 
----
+### About Me
+- Deep diving into **Flutter** with Clean Architecture, Bloc, Injectable, Retrofit
+- Building real-world apps: online exams, e-commerce/flower-style projects, and more
+- Ask me anything about Flutter • Dart • Bloc • Clean Code • Mobile Development
+- Reach me → abdelrahmanayman559@gmail.com
+- Fun fact → Always learning – never stop! 🔥
 
-## About Me
-I’m Abdel Rahman Ayman — a passionate Mobile Developer specializing in Flutter and Dart. I build production-ready applications with clean architecture, robust state management, and a strong focus on performance and user experience.
-
-My approach: elegant UI + maintainable architecture + measurable results.
-
----
-
-## What I Build
-- Scalable Flutter apps with Clean Architecture
-- Complex state management using Bloc
-- REST & Firebase integrations, and third-party APIs
-- Production-ready features: authentication, payments, offline support
-- Tested, maintainable code and CI/CD-ready pipelines
-
----
-
-## Tech Stack & Tools
+### Connect with me
 <p align="center">
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="48"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="48"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="48"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="48"/></a>
-  <a href="https://figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="48"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48"/></a>
+  <a href="https://www.linkedin.com/in/abdelrahman-ayman-978394221/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <span>   </span>
+  <a href="https://www.facebook.com/boo.dy.58367">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
-Key patterns: Clean Architecture • Bloc • Dependency Injection (Injectable) • Retrofit-like networking
-
----
-
-## Highlights & Selected Projects
-- Online Exams App — dynamic question flows, timed sessions, secure result tracking
-- E-commerce / Flower Shop — smooth product browsing, cart & checkout flows, payment integrations
-- Educational & Interactive Apps — strong UX focus, animated UI, optimized state handling
-
-Want links or demos? Request any project and I’ll share the repository or a short walkthrough.
-
----
-
-## Why Work With Me
-- I deliver scalable, maintainable apps — not just prototypes
-- Clean code, clear architecture, and pragmatic testing
-- Fast learner, team player, and solution-oriented
-- Focused on shipping value and improving user experience
-
----
-
-## Contact
-- Email: abdelrahmanayman559@gmail.com
-- LinkedIn: [Abdelrahman Ayman](https://www.linkedin.com/in/abdelrahman-ayman-978394221/)
-- Facebook: [boo.dy.58367](https://www.facebook.com/boo.dy.58367)
-
+### Languages & Tools
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelrahman-ayman-978394221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://www.facebook.com/boo.dy.58367"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="55" height="55"/></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="55" height="55"/></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="55" height="55"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="55" height="55"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="55" height="55"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/></a>
+  <a href="https://slack.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="55" height="55"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="55" height="55"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="55" height="55"/></a>
 </p>
 
----
-
-## Stats & Trophies
+### My Stats & Contributions
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman1&theme=dracula&hide_border=true&border_radius=10" alt="streak"/>
 </p>
@@ -82,16 +52,6 @@ Want links or demos? Request any project and I’ll share the repository or a sh
   <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanAyman1&theme=dracula&no-frame=true&margin-w=15" alt="trophies"/>
 </p>
 
----
-
-## Need a Custom README, Portfolio, or Project Page?
-I can:
-- Create a dedicated README per project (features, architecture, how-to-run, screenshots)
-- Build a simple portfolio page showcasing your apps with screenshots and downloads
-- Produce a concise professional summary for recruiters (1-page GitHub CV)
-
-Tell me which one you want and the style (Minimal / Neon / Professional / Retro) — I’ll generate it immediately.
-
----
-
-_Design note: If you want bolder visuals (animated headers, gradient theme, unique color palette), tell me the color/style and I’ll adapt the README right away._
+<p align="center">
+  <i>Building beautiful, clean & performant mobile apps one widget at a time! ✨</i>
+</p>
