@@ -37,9 +37,9 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 ---
 
 ### 🎓 Licenses & Certifications
-- 🏆 **Cross platform using Flutter** - Udemy (Issued Sep 2023)
-- 📜 **Android Development Diploma** - Route (Issued Feb 2022)
-- 🎓 **IT Masters Diploma** - Route (Issued Apr 2021)
+- 🏆 **Cross platform using Flutter** - Udemy (Issued Sep 2023).
+- 📜 **Android Development Diploma** - Route (Issued Feb 2022).
+- 🎓 **IT Masters Diploma** - Route (Issued Apr 2021).
 
 ---
 
@@ -76,8 +76,8 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
       <h4>💻 Mobile Development</h4>
       <ul>
         <li><b>State Management:</b> Bloc, Cubit, Provider</li>
+        <li><b>Database:</b> Hive, SQLite, Room</li>
         <li><b>Network:</b> Retrofit, Dio, REST APIs</li>
-        <li><b>UI/UX:</b> Server-driven design, Google Maps</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -85,7 +85,7 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
       <ul>
         <li><b>DevOps:</b> CI/CD (GitHub Actions), GitFlow</li>
         <li><b>Management:</b> Jira, Slack, Agile (Scrum)</li>
-        <li><b>Architecture:</b> MVI, MVVM, Clean Architecture</li>
+        <li><b>Principles:</b> SOLID, Clean Code, OOP</li>
       </ul>
     </td>
   </tr>
@@ -99,7 +99,7 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
   <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
   <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
   <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
-  <a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
+  <a href="https://pub.dev/packages/hive"><img src="https://skillicons.dev/icons?i=sqlite" alt="Hive/SQLite" /></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
