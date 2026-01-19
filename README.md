@@ -15,9 +15,8 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 
 - 🎓 Studying **Computer Science**.
 - 🏗️ Expert in **Clean Architecture**, **MVI**, and **Domain-Driven Design (DDD)**.
-- ⚙️ Skilled in **CI/CD** pipelines for mobile automation.
+- ⚙️ Specialized in **CI/CD** with **GitHub Actions**.
 - 📱 Dedicated to creating fluid UI/UX with complex animations.
-- 🔭 Check out my latest work below.
 
 ---
 
@@ -25,11 +24,10 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 **Flutter Developer Intern** | [Elevate Tech](https://www.linkedin.com/company/elevatecheg/)
 *Oct 2025 – Present*
 
-- 🚀 Developing high-quality mobile features within an **Agile (Scrum)** environment.
+- 🚀 Developing high-quality mobile features within an **Agile (Scrum)** environment using **Jira** for project management.
 - 🏗️ Enforcing **Clean Architecture** and **MVI / BLoC** for state management to ensure long-term maintainability.
-- 🔄 Implementing and maintaining **CI/CD** workflows to automate testing and deployment processes.
+- 🔄 Automating testing and deployment processes via **GitHub Actions (CI/CD)**.
 - 🛠️ Mastering modular code structure and advanced Git workflows for team collaboration.
-- 🧪 Integrating third-party APIs and optimizing app performance for low-end devices.
 
 ---
 
@@ -42,16 +40,14 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
         <li><b>Framework:</b> Flutter (Dart)</li>
         <li><b>State Management:</b> BLoC, MVI, Provider</li>
         <li><b>Architecture:</b> Clean Architecture, MVVM</li>
-        <li><b>Local DB:</b> Hive, Sqflite, Shared Preferences</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Tools & Methodology</h4>
       <ul>
-        <li><b>DevOps:</b> CI/CD (GitHub Actions), Automation</li>
-        <li><b>Methodologies:</b> Agile, Scrum, Kanban</li>
+        <li><b>Management:</b> Jira, Agile, Scrum, Kanban</li>
+        <li><b>DevOps:</b> GitHub Actions (CI/CD)</li>
         <li><b>Version Control:</b> Git, GitHub, GitFlow</li>
-        <li><b>Testing:</b> Unit Testing, Widget Testing</li>
       </ul>
     </td>
   </tr>
@@ -59,9 +55,17 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 
 ---
 
+### 🎓 Certifications & Learning
+- 🏆 **Advanced Flutter & Dart** - (Learning through specialized courses)
+- 🏗️ **Mastering Clean Architecture in Flutter**
+- 📱 **UI/UX Design for Mobile Applications**
+- ⚙️ **Agile Project Management (Scrum/Jira)**
+
+---
+
 ### 🛠 Tech Stack & Ecosystem
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,sqlite,git,github,figma,postman,vscode,androidstudio,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,sqlite,git,github,githubactions,figma,postman,vscode,linux&perline=6" />
 </p>
 
 ---
@@ -73,13 +77,11 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
       <a href="https://github.com/AbdelrahmanAyman1/online_exam">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman1&repo=online_exam&theme=neon&hide_border=true" alt="Online Exam" />
       </a>
-      <br /><i>Online Exam System - Clean Architecture & BLoC</i>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/OmarWheed/Flower-app">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarWheed&repo=Flower-app&theme=neon&hide_border=true" alt="Flower App" />
       </a>
-      <br /><i>Flower Shop E-commerce - Advanced UI/UX</i>
     </td>
   </tr>
 </table>
@@ -92,13 +94,9 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman1&theme=neon&hide_border=true" alt="streak" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAyman1&layout=compact&theme=neon&hide_border=true" alt="top-langs" height="180" />
-</p>
-
 ---
 
-### 🎬 My Coding Journey (Snake)
+### 🎬 Coding Activity (Snake)
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbdelrahmanAyman1/AbdelrahmanAyman1/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
@@ -109,7 +107,6 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 <p align="center">
   <a href="mailto:abdelrahmanayman559@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abdelrahman-ayman-978394221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/boo.dy.58367"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 <div align="center">
