@@ -37,9 +37,9 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 ---
 
 ### 🎓 Licenses & Certifications
-- 🏆 **Cross platform using Flutter** - Udemy (Issued Sep 2023).
-- 📜 **Android Development Diploma** - Route (Issued Feb 2022).
-- 🎓 **IT Masters Diploma** - Route (Issued Apr 2021).
+- 🏆 **Cross platform using Flutter** - Udemy (Issued Sep 2023)
+- 📜 **Android Development Diploma** - Route (Issued Feb 2022)
+- 🎓 **IT Masters Diploma** - Route (Issued Apr 2021)
 
 ---
 
@@ -76,8 +76,8 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
       <h4>💻 Mobile Development</h4>
       <ul>
         <li><b>State Management:</b> Bloc, Cubit, Provider</li>
-        <li><b>Database:</b> Hive, SQLite, Room</li>
         <li><b>Network:</b> Retrofit, Dio, REST APIs</li>
+        <li><b>Storage:</b> Hive, SQLite, Room</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -85,7 +85,7 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
       <ul>
         <li><b>DevOps:</b> CI/CD (GitHub Actions), GitFlow</li>
         <li><b>Management:</b> Jira, Slack, Agile (Scrum)</li>
-        <li><b>Principles:</b> SOLID, Clean Code, OOP</li>
+        <li><b>Architecture:</b> MVI, MVVM, Clean Architecture</li>
       </ul>
     </td>
   </tr>
