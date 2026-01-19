@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Abdel+Rahman+Ayman&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Abdelrahman+Ayman&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header"/>
 </p>
 
 <p align="center">
