@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Abdelrahman;Flutter+Developer+🚀;Clean+Architecture+%26+Bloc+Expert" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Abdelrahman;Flutter+Developer+🚀;Crafting+Clean+%26+Performant+Apps" alt="Typing"/>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=AbdelrahmanAyman1&fontSize=70&fontColor=fff&animation=twinkling" alt="header wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=AbdelrahmanAyman1&fontSize=70&fontColor=fff&animation=twinkling" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAyman1&label=Profile+Views&color=0e75b6&style=for-the-badge&logo=starship" alt="views"/>
-  <br><br>
-  <kbd>Flutter • Clean Architecture • Bloc • Always Learning</kbd>
+  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAyman1&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views"/>
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" alt="coding"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
 </div>
 
 ### About Me
@@ -35,22 +33,16 @@
 
 ### My Stats & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman1&show_icons=true&theme=dracula&hide_border=true&hide=contribs,prs,issues" alt="stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman1&theme=radical&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman1&theme=dracula&hide_border=true" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanAyman1&theme=radical&no-frame=true&margin-w=15" alt="trophies"/>
-</p>
-
-### Contribution Snake 🐍
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdelrahmanAyman1/AbdelrahmanAyman1/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdelrahmanAyman1/AbdelrahmanAyman1/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/AbdelrahmanAyman1/AbdelrahmanAyman1/output/github-snake.svg" />
   </picture>
 </p>
