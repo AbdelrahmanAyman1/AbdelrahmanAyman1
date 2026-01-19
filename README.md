@@ -24,15 +24,14 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 
 **Flutter Developer Intern** | [Elevate Tech](https://www.linkedin.com/company/elevatecheg/)
 *Oct 2025 – Present*
-- 🚀 Implementing **Server-driven design** and robust state management using **Bloc, Cubit, and Provider**.
-- 🏗️ Enforcing **Clean Architecture** and **SOLID Principles** for maintainable mobile solutions.
+- 🚀 Implementing **Server-driven design** and state management using **Bloc, Cubit, and Provider**.
+- 🏗️ Enforcing **Clean Architecture** and **SOLID Principles** for maintainable solutions.
 - 🔄 Automating workflows with **GitHub Actions (CI/CD)** and following **Agile (Scrum)**.
 
 **Freelance Flutter Developer** | [Remote / Project-Based]
 *Sep 2025*
-- 📍 **[Hero Location](https://github.com/heroOne2025/hero_location)**: Developed a specialized location-based application focusing on real-time tracking and geospatial data.
-- 🛠️ Integrated advanced **Google Maps API** features and optimized background location services.
-- 📱 Delivered a production-ready UI/UX tailored to client requirements.
+- 📍 **[Hero Location](https://github.com/heroOne2025/hero_location)**: Developed a specialized location-based application focusing on real-time tracking.
+- 🛠️ Integrated advanced **Google Maps API** features and optimized background services.
 
 ---
 
@@ -43,6 +42,32 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 
 ---
 
+### 🌟 Featured Projects
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/AbdelrahmanAyman1/online_exam">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman1&repo=online_exam&theme=neon&hide_border=true" alt="Online Exam" />
+      </a>
+      <br /><i>Online Exam System</i>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/heroOne2025/hero_location">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=heroOne2025&repo=hero_location&theme=neon&hide_border=true" alt="Hero Location" />
+      </a>
+      <br /><i>Freelance: GPS Tracker</i>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarWheed/Flower-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarWheed&repo=Flower-app&theme=neon&hide_border=true" alt="Flower App" />
+      </a>
+      <br /><i>E-commerce Solution</i>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🚀 Technical Expertise
 <table align="center">
   <tr>
@@ -50,15 +75,15 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
       <h4>💻 Mobile Development</h4>
       <ul>
         <li><b>State Management:</b> Bloc, Cubit, Provider</li>
-        <li><b>Network/Data:</b> Retrofit, Dio, REST APIs, Hive</li>
-        <li><b>UI/UX:</b> Server-driven design, Google Maps, GPS</li>
+        <li><b>Network:</b> Retrofit, Dio, REST APIs</li>
+        <li><b>UI/UX:</b> Server-driven design, Google Maps</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Tools & Methodology</h4>
       <ul>
         <li><b>DevOps:</b> CI/CD (GitHub Actions), GitFlow</li>
-        <li><b>Management:</b> Jira, Agile, Scrum, Kanban</li>
+        <li><b>Management:</b> Jira, Agile, Scrum</li>
         <li><b>Architecture:</b> MVI, MVVM, Clean Architecture</li>
       </ul>
     </td>
@@ -71,24 +96,6 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,sqlite,git,github,githubactions,figma,postman,vscode,linux&perline=6" />
 </p>
-
----
-
-### 🌟 Featured Projects
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AbdelrahmanAyman1/online_exam">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman1&repo=online_exam&theme=neon&hide_border=true" alt="Online Exam" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/heroOne2025/hero_location">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=heroOne2025&repo=hero_location&theme=neon&hide_border=true" alt="Hero Location" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
