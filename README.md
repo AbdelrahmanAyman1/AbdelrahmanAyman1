@@ -84,7 +84,7 @@ I am a **Software Engineer** dedicated to crafting high-performance mobile exper
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanAyman1&theme=neon&no-bg=true&no-frame=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanAyman1&theme=neon&no-bg=true&no-frame=true" alt="AbdelrahmanAyman1 Trophies" />
 </p>
 
 ---
