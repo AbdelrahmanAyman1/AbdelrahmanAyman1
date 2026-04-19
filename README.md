@@ -43,32 +43,6 @@ I am a **Software Engineer** specializing in **Cross-Platform Mobile Development
 
 ---
 
-### 🌟 Featured Projects
-<table align="center">
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/AbdelrahmanAyman1/online_exam">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman1&repo=online_exam&theme=neon&hide_border=true" alt="Online Exam" />
-      </a>
-      <br /><i>Online Exam System</i>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/heroOne2025/hero_location">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=heroOne2025&repo=hero_location&theme=neon&hide_border=true" alt="Hero Location" />
-      </a>
-      <br /><i>Freelance: GPS Tracker</i>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/OmarWheed/Flower-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarWheed&repo=Flower-app&theme=neon&hide_border=true" alt="Flower App" />
-      </a>
-      <br /><i>E-commerce Solution</i>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🚀 Technical Expertise
 <table align="center">
   <tr>
